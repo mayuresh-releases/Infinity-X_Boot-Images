@@ -31,6 +31,11 @@
     ```
 
 3.  **Reboot into Recovery**
+    * On your PC, run:
+        ```bash
+        fastboot reboot recovery
+        ```
+        **OR**
     * Reboot your device into recovery mode by holding the appropriate key combination.
 
 4.  **Format data**
